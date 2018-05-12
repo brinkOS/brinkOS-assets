@@ -32,4 +32,4 @@ antigen bundle zsh-users/zsh-syntax-highlighting
 antigen theme agnoster
 
 # Tell Antigen that you're done.
-atigen apply
+antigen apply
