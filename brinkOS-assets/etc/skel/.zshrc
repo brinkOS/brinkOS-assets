@@ -11,7 +11,7 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
-source /usr/lib/python3.6/site-packages/powerline/bindings/zsh/powerline.zsh
+source /usr/lib/python3.7/site-packages/powerline/bindings/zsh/powerline.zsh
 
 # brinkOS customizations
 source /usr/share/zsh/share/antigen.zsh
