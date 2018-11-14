@@ -68,7 +68,7 @@
     },
     "menu-icon-custom": {
         "type": "switch",
-        "default": false,
+        "default": true,
         "description": "Use a custom icon",
         "tooltip": "Unchecking this allows the theme to set the icon",
         "value": true
